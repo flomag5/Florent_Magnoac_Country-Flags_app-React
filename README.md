@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Country Flags Application
+  
+ ![country_app](https://user-images.githubusercontent.com/86949841/194280692-3bdd165e-65c5-4bdf-a022-e98c80c3103e.jpg)  
+
+**Appli Country Flags**  
+Application basique en REACT d'affichage des drapeaux de tous les pays avec possibilité d'affiner la sélection par continent.
+
+----------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
